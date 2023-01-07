@@ -31,7 +31,8 @@ class Home extends StatelessWidget {
           Text("3"),
           Text("4"),
           Text("5"),
-          Text("6")
+          Text("6"),
+          Text("7")
         ],
       ),
     );
